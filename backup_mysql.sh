@@ -1,7 +1,7 @@
     #!/bin/bash
     # Shell script to backup MySql database
     # Originally developed by nixCraft project
-    # Enhanced by Chris Harvey (http://www.chrisnahrvey.com/)
+    # Enhanced by Chris Harvey (http://www.chrisnharvey.com/)
      
     MyUSER="root" # USERNAME
     MyPASS="" # PASSWORD
